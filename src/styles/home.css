@@ -1,0 +1,29 @@
+.card-characters{
+    position: absolute;
+    display: flex;
+    overflow-x: scroll;
+    margin-left: 20px;
+   
+}
+
+.card-planets{
+    position: absolute;
+    display: flex;
+    overflow-x: scroll;
+    margin-top: 700px;
+    margin-left: 20px; 
+}
+
+.planets-text{
+    position: absolute;
+    display: flex;
+    margin-top: 630px;
+}
+
+.card-vehicles{
+    position: absolute;
+    display: flex;
+    overflow-x: scroll;
+    margin-top: 1200px;
+    margin-left: 20px; 
+}

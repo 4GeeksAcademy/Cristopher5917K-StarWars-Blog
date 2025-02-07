@@ -1,0 +1,7 @@
+.img-style{
+    position: absolute;
+    display: flex;
+    width: 65px;
+    height: 65px;
+    left: 10px;
+}
